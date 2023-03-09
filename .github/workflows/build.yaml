@@ -29,4 +29,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/pluhin/docker_build:3
+          tags: ghcr.io/pluhin/docker_build:4
